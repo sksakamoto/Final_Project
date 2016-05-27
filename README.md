@@ -12,4 +12,4 @@
     #Store "favorite" activities by assigning to a variable that user can call by name.
 #In View Metrics, the user can view average step counts over days, weeks, or months.
   #The program can average step counts over specified ranges of time.
-  #The program can print graphs to enable user to view progress.
+  #The program can print graphs and visuals to enable user to view progress.
